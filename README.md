@@ -50,6 +50,6 @@ The project is divided in Infrastructure and Instances:
 
 ## TO BE
 
-- Multiple subnets to configure high availability
+- Multiple subnets to configure fault tolerance and high availability with Multi-AZ
 - Load Balancer
 - Auto Scalling
